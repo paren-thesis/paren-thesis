@@ -5,7 +5,7 @@
 With a passion for technology, I aim to develop software solutions that bridge the gap between the digital world and real-life experiences. I specialize in both **frontend** and **backend** development, allowing me to work on a wide range of projects, from Android app development to web platforms. My focus is on writing **clean, efficient code** while constantly learning and evolving. Let's create something amazing together! 🚀
 
 - 🌱 I’m diving deeper into **Java** and plan to explore **Spring Boot** next.
-- 💬 Ask me about **Android app development**, **web development** (HTML, CSS, JavaScript, XML), and **backend development** with **Java, Spring Boot, Python, SQL, and JavaScript**.
+- 💬 Ask me about **Android app development**, **web development** (HTML, CSS, JavaScript, XML), and **backend development** with **Java, Python, SQL, and JavaScript**.
 - 🛠 I use **Git** and **GitHub** for version control and enjoy collaborating with other developers to bring ideas to life.
 - 🧑‍💻 I'm always up for a fun conversation, especially when it’s tech-related!
 - ⚡ Fun fact: I might look like a hobbit, but I bring full-stack magic to every project.
