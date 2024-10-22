@@ -41,7 +41,7 @@ With a passion for technology, I aim to develop software solutions that bridge t
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,spring,python,javascript, firebase" alt="Backend Tools"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,spring,python,javascript" alt="Backend Tools"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Frontend:</td>
