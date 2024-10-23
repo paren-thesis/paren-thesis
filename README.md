@@ -15,6 +15,8 @@ With a passion for technology, I aim to develop software solutions that bridge t
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=paren-thesis&label=Profile%20views&color=0e75b6&style=flat" alt="paren-thesis" />
+
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ntimprosper308@gmail.com@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prosper-ntim-9bb6ba2bb/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/prosper_ntim?public_mode=true)
