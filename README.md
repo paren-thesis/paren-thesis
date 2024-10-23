@@ -11,17 +11,17 @@ With a passion for technology, I aim to develop software solutions that bridge t
 - ⚡ Fun fact: I might look like a hobbit, but I bring full-stack magic to every project.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/RenatoResabala" target="_blank">
-        <i class="devicon-twitter-original" alt="Prosper_Ntim" height="40" width="60"></i>
-    </a>
-    <a href="https://www.linkedin.com/in/renato-r-611795133/" target="_blank">
-        <i class="devicon-linkedin-plain colored" alt="Prosper_Ntim" height="40" width="60"></i>
-    </a>
-</p>
+
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=paren-thesis&label=Profile%20views&color=0e75b6&style=flat" alt="paren-thesis" />
+    ## Connect with me:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ntimprosper308@gmail.com@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prosper-ntim-9bb6ba2bb/)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/prosper_ntim?public_mode=true)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/paren7)
+
 </p>
 
 ------
