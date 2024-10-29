@@ -32,7 +32,7 @@ With a passion for technology, I aim to develop software solutions that bridge t
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paren-thesis&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paren-thesis&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </a>
-<p align="center">
+<p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=paren-thesis&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
