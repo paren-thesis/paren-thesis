@@ -58,7 +58,7 @@ With a passion for technology, I aim to develop software solutions that bridge t
     </tr>
     <tr>
     <td style="font-weight: bold; padding-right: 10px;">IDEs:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,vim,androidstudio" alt="IDEs"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,vim,androidstudio,netbeans" alt="IDEs"/></td>
 </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Operating System:</td>
