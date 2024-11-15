@@ -30,11 +30,11 @@ With a passion for technology, I aim to develop software solutions that bridge t
 
 <h3 align="left">Activity:</h3>
 <a href="https://github.com/paren-thesis">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paren-thesis&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paren-thesis&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paren-thesis&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paren-thesis&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
 </a>
 <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=paren-thesis&theme=tokyonight" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=paren-thesis&theme=algolia" alt="GitHub Streak Stats" />
 </p>
 
 ------
