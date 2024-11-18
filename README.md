@@ -67,12 +67,5 @@ With a passion for technology, I aim to develop software solutions that bridge t
     </tr>
 </table>
 ------
-<div align="center">
-<h3 align="left">🏆 Github Trophies</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishtia" alt="paren-thesis" /></a> </p>
-</div>
-
-------
-
 
 ### [p@ren](https://github.com/paren-thesis)
