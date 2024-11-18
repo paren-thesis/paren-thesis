@@ -47,7 +47,7 @@ With a passion for technology, I aim to develop software solutions that bridge t
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,xml" alt="Frontend Tools"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Tools"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Database:</td>
@@ -66,6 +66,11 @@ With a passion for technology, I aim to develop software solutions that bridge t
         <td><img height="40" src="https://skillicons.dev/icons?i=windows" alt="Operating System"/></td>
     </tr>
 </table>
+------
+<div align="center">
+<h3 align="left">🏆 Github Trophies</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishtia" alt="paren-thesis" /></a> </p>
+</div>
 
 ------
 
