@@ -6,7 +6,7 @@ With a passion for technology, I aim to develop software solutions that bridge t
 
 - 🌍 I am working on a very simple tech blog for nerds [nerdsRanch](https://paren-thesis.github.io/nerdsRanch).
 - 🌱 I’m diving deeper into **Java** and plan to explore **Spring Boot** next.
-- 💬 Ask me about **Android app development**, **web development** (HTML, CSS, JavaScript, XML), and **backend development** with **Java, Python, SQL, and JavaScript**.
+- 💬 Ask me about **Android app development**, **web development** (HTML, CSS, JavaScript, React), and **backend development** with **Java, Python, SQL, and JavaScript**.
 - 🛠 I use **Git** and **GitHub** for version control and enjoy collaborating with other developers to bring ideas to life.
 - 🧑‍💻 I'm always up for a fun conversation, especially when it’s tech-related!
 - ⚡ Fun fact: I might look like a hobbit, but I bring full-stack magic to every project.
