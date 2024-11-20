@@ -66,6 +66,10 @@ With a passion for technology, I aim to develop software solutions that bridge t
         <td><img height="40" src="https://skillicons.dev/icons?i=windows" alt="Operating System"/></td>
     </tr>
 </table>
-------
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
 
 ### [p@ren](https://github.com/paren-thesis)
