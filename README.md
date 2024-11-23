@@ -68,9 +68,9 @@ With a passion for technology, I aim to develop software solutions that bridge t
     </tr>
 </table>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+<p align="center" style="width: 100%;">
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/paren-thesis/paren-thesis/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
+</p>
 ---
 
 ### [p@ren](https://github.com/paren-thesis)
