@@ -69,7 +69,7 @@ With a passion for technology, I aim to develop software solutions that bridge t
 </table>
 
 <p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/paren-thesis/paren-thesis/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/paren-thesis/paren-thesis/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="paren-thesis" />
 </p>
 ---
 
