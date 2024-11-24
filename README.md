@@ -6,7 +6,6 @@ With a passion for technology, I aim to develop software solutions that bridge t
 
 - 🌍 I am working on a very simple tech blog for nerds [nerdsRanch](https://paren-thesis.github.io/nerdsRanch).
 - ✨ I am also working on this Netflix clone [MovieWeb](https://paren-thesis.github.io/ViewVault).
-- 🌱 I’m diving deeper into **Java**.
 - 💬 Ask me about **Android app development**, **web development** (HTML, CSS, JavaScript, React), and **backend development** with **Java, Python, SQL, and JavaScript**.
 - 🛠 I use **Git** and **GitHub** for version control and enjoy collaborating with other developers to bring ideas to life.
 - 🧑‍💻 I'm always up for a fun conversation, especially when it’s tech-related!
