@@ -56,7 +56,7 @@ With a passion for technology, I aim to develop software solutions that bridge t
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github" alt="Version Control Tools"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Version Control Tools"/></td>
     </tr>
     <tr>
     <td style="font-weight: bold; padding-right: 10px;">IDEs:</td>
@@ -68,9 +68,5 @@ With a passion for technology, I aim to develop software solutions that bridge t
     </tr>
 </table>
 
-<p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/paren-thesis/paren-thesis/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="paren-thesis" />
-</p>
----
 
 ### [p@ren](https://github.com/paren-thesis)
