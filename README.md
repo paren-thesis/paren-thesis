@@ -67,5 +67,6 @@ With a passion for technology, I aim to develop software solutions that bridge t
     </tr>
 </table>
 
+------
 
 ### [p@ren](https://github.com/paren-thesis)
