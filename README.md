@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### Hello, I'm Prosper Ntim (p@ren)
+### 👋🏽Hello, I'm Prosper Ntim (p@ren)
 
 With a passion for technology, I aim to develop software solutions that bridge the gap between the digital world and real-life experiences. I specialize in both **frontend** and **backend** development, allowing me to work on a wide range of projects, from Android app development to web platforms. My focus is on writing **clean, efficient code** while constantly learning and evolving. Let's create something amazing together! 🚀
 
@@ -11,7 +11,7 @@ With a passion for technology, I aim to develop software solutions that bridge t
 - 🧑‍💻 I'm always up for a fun conversation, especially when it’s tech-related!
 - ⚡ Fun fact: I might look like a hobbit, but I bring full-stack magic to every project.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗Connect with me:</h3>
 
 
 <p align="left">
@@ -28,7 +28,7 @@ With a passion for technology, I aim to develop software solutions that bridge t
 
 ------
 
-<h3 align="left">Activity:</h3>
+<h3 align="left">⚡Activity:</h3>
 <a href="https://github.com/paren-thesis">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paren-thesis&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paren-thesis&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
@@ -39,7 +39,7 @@ With a passion for technology, I aim to develop software solutions that bridge t
 
 ------
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🧰Languages and Tools:</h3>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Backend:</td>
