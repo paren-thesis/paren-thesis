@@ -78,4 +78,9 @@ With a passion for technology, I aim to develop software solutions that bridge t
 
 ------
 
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/paren-thesis/paren-thesis/output/snake.svg" alt="Snake animation" />
+
 ### [p@ren](https://github.com/paren-thesis)
