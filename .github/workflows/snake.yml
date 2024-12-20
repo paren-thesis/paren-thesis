@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Snake Animation
 
 on:
   push:
@@ -10,16 +10,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v3
+    # Check out your repository
+    - name: Checkout code
+      uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: paren-thesis
+    # Generate the snake animation
+    - name: Generate Snake Animation
+      uses: Platane/snk@v3
+      with:
+        github_user_name: paren-thesis
+        # Optional: You can also specify your avatar size and theme here
+        # avatar_size: 128
+         theme: dark
 
-      - name: Upload Snake Animation
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake-animation
-          path: dist
+    # List the files to check if snake.svg exists
+    - name: List Files
+      run: ls -R
+
+    # Upload the generated artifact
+    - name: Upload Snake Animation as Artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: snake-animation
+        path: dist/snake.svg
