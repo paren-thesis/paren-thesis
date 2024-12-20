@@ -1,0 +1,25 @@
+name: Generate Snake Animation
+
+on:
+  push:
+    branches:
+      - main  # Change if your default branch is different
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: paren-thesis  # Your GitHub username
+
+      - name: Upload Snake Animation
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake-animation
+          path: dist
