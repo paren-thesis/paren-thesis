@@ -79,12 +79,4 @@ With a passion for technology, I aim to develop software solutions that bridge t
 ------
 
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paren-thesis/paren-thesis/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paren-thesis/paren-thesis/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paren-thesis/paren-thesis/output/github-contribution-grid-snake.svg">
-</picture>
-
 ### [p@ren](https://github.com/paren-thesis)
