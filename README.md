@@ -70,7 +70,7 @@ With a passion for technology, I aim to develop software solutions that bridge t
 ------
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=paren-thesis&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=paren-thesis&theme=onedark&no-frame=true&no-bg=false&margin-w=9)
 
 
 ## ✍️ Random Dev Quote
