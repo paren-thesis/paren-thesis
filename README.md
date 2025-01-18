@@ -5,7 +5,8 @@
 With a passion for technology, I aim to develop software solutions that bridge the gap between the digital world and real-life experiences; 
 I specialize in both **frontend** and **backend** development, allowing me to work on a wide range of projects; 
 from Android app development to web platforms; 
-My focus is on writing **clean, efficient code** while constantly learning and evolving; Let's create something amazing together! 🚀
+My focus is on writing **clean, efficient code** while constantly learning and evolving; 
+Let's create something amazing together! 🚀
 ```
 
 - 🤖 Check out this simple search space for nerds [nerdsRanch](https://paren-thesis.github.io/Nersh).
