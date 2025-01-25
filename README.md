@@ -48,11 +48,11 @@ Let's create something amazing together! 🚀
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,python,javascript" alt="Backend Tools"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,python,javascript,sql" alt="Backend Tools"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,shell" alt="Frontend Tools"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,batch" alt="Frontend Tools"/></td>
     </tr>
    <tr>
         <td style="font-weight: bold; padding-right: 10px;">Database:</td>
