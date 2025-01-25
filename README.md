@@ -54,9 +54,9 @@ Let's create something amazing together! 🚀
         <td style="font-weight: bold; padding-right: 10px;">Frontend:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Tools"/></td>
     </tr>
-    <tr>
+   <tr>
         <td style="font-weight: bold; padding-right: 10px;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=postgres,firebase" alt="Database Tools"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?=mysql,firebase" alt="Database Tools"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Version Control:</td>
@@ -68,7 +68,7 @@ Let's create something amazing together! 🚀
 </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Operating System:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows, linux" alt="Operating System"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,kali" alt="Operating System"/></td>
     </tr>
 </table>
 
