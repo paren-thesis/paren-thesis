@@ -52,7 +52,7 @@ Let's create something amazing together! 🚀
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Tools"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,shell" alt="Frontend Tools"/></td>
     </tr>
    <tr>
         <td style="font-weight: bold; padding-right: 10px;">Database:</td>
