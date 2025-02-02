@@ -36,8 +36,14 @@ Let's create something amazing together! 🚀
 <h3 align="left">⚡Activity:</h3>
 <a href="https://github.com/paren-thesis">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paren-thesis&show_icons=true&locale=en&layout=compact&theme=transparent&border_color=61dafb&hide_border=true" alt="Top Languages" />
+
+------
+
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paren-thesis&show_icons=true&locale=en&theme=transparent&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
 </a>
+
+------
+
 <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=paren-thesis&theme=transparent&border_color=61dafb&hide_border=true" alt="GitHub Streak Stats" />
 </p>
