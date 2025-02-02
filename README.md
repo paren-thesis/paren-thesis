@@ -8,7 +8,7 @@ from Android app development to web platforms and writing shell scripts;
 My focus is on writing **clean, efficient code** while constantly learning and evolving; 
 Let's create something amazing together! 🚀
 ```
-- ⚙A tool that simplifies Git commands through an interactive menu system [paren](https://github.com/paren-thesis/paren)
+- ⚙A tool that simplifies Git commands through an interactive menu system [PAREN](https://github.com/paren-thesis/paren)
 - 🤖 Check out this simple search space for nerds [nerdsRanch](https://paren-thesis.github.io/Nersh).
 - ✨ I am also working on this movie streaming site which is been hosted using github pages [MovieWeb](https://paren-thesis.github.io/ViewVault).
 - 💬 Ask me about **Android app development**, **web development** (HTML, CSS, JavaScript, React), and **backend development** with **Java,SQL, and JavaScript**.
@@ -34,18 +34,26 @@ Let's create something amazing together! 🚀
 ------
 
 <h3 align="left">⚡Activity:</h3>
-<a href="https://github.com/paren-thesis">
+<p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paren-thesis&show_icons=true&locale=en&layout=compact&theme=transparent&border_color=61dafb&hide_border=true" alt="Top Languages" />
-
-------
-
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paren-thesis&show_icons=true&locale=en&theme=transparent&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
-</a>
+</p>
 
 ------
 
 <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=paren-thesis&theme=transparent&border_color=61dafb&hide_border=true" alt="GitHub Streak Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paren-thesis&show_icons=true&locale=en&theme=transparent&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
+</p>
+
+------
+
+<p>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=paren-thesis&theme=transparent&border_color=61dafb&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+------
+
+<p>
+  <img src="https://github-contributor-stats.vercel.app/api?username=paren-thesis&limit=4&theme=transparent&border_color=61dafb&hide_border=true&combine_all_yearly_contributions=true" alt="GitHub Most Contributed Repo" />
 </p>
 
 ------
@@ -58,7 +66,7 @@ Let's create something amazing together! 🚀
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,shellscript" alt="Frontend Tools"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Tools"/></td>
     </tr>
    <tr>
         <td style="font-weight: bold; padding-right: 10px;">Database:</td>
