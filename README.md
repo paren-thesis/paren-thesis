@@ -8,7 +8,7 @@ from Android app development to web platforms and writing shell scripts;
 My focus is on writing **clean, efficient code** while constantly learning and evolving; 
 Let's create something amazing together! 🚀
 ```
-- ⚙  A tool that simplifies Git commands through an interactive menu system [Gitty](https://github.com/paren-thesis/Gitty)
+- ⚙  A tool that simplifies Git commands through an interactive menu system [GitNova](https://github.com/paren-thesis/GitNova)
 - 🤖 Check out this simple search space for nerds [nerdsRanch](https://paren-thesis.github.io/Nersh).
 - ✨ I am also working on this movie streaming site which is been hosted using github pages [MovieWeb](https://paren-thesis.github.io/ViewVault).
 - 💬 Ask me about **Android app development**, **web development** (HTML, CSS, JavaScript, React), and **backend development** with **Java,SQL, and JavaScript**.
