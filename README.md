@@ -8,6 +8,7 @@ from Android app development to web platforms and writing shell scripts;
 My focus is on writing **clean, efficient code** while constantly learning and evolving; 
 Let's create something amazing together! 🚀
 ```
+- 🍔 This is a simple static food ordering system [Perla's](https://paren-thesis.github.io/Perla-s/) and this is the [repo](https://github.com/paren-thesis/Perla-s)
 - ⚙  A tool that simplifies Git commands through an interactive menu system [GitNova](https://github.com/paren-thesis/GitNova)
 - 🤖 Check out this simple search space for nerds [nerdsRanch](https://paren-thesis.github.io/Nersh).
 - ✨ I am also working on this movie streaming site which is been hosted using github pages [MovieWeb](https://paren-thesis.github.io/ViewVault).
