@@ -1,35 +1,30 @@
-name: Snake Animation
+name: Generate Snake Animation
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    # Runs at midnight every day
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-
+    
     steps:
-    # Check out your repository
-    - name: Checkout code
-      uses: actions/checkout@v3
-
-    # Generate the snake animation
-    - name: Generate Snake Animation
-      uses: Platane/snk@v3
-      with:
-        github_user_name: paren-thesis
-        # Optional: You can also specify your avatar size and theme here
-        # avatar_size: 128
-         theme: dark
-
-    # List the files to check if snake.svg exists
-    - name: List Files
-      run: ls -R
-
-    # Upload the generated artifact
-    - name: Upload Snake Animation as Artifact
-      uses: actions/upload-artifact@v3
-      with:
-        name: snake-animation
-        path: dist/snake.svg
+      - uses: actions/checkout@v3
+      
+      - name: Generate Snake Animation
+        uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: paren-thesis
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path_dark: dist/github-contribution-grid-snake-dark.svg
+      
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
