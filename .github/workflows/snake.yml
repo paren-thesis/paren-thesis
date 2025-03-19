@@ -10,6 +10,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v3
       
@@ -21,10 +24,5 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
           svg_out_path_dark: dist/github-contribution-grid-snake-dark.svg
       
-      - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+      - name:The failure in the job is due to a permission issue when trying to push to the repository. The relevant log Push to Output Branch
+        uses: crazy-max/ghaction message is:
