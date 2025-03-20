@@ -18,7 +18,7 @@ amazing together! 🚀
 - ⌨️ [TypeIt](https://paren-thesis.github.io/TypeIt/) - A web-based typing game to improve your typing skills ([repo](https://github.com/paren-thesis/TypeIt))
 - 🍔 [Perla's](https://paren-thesis.github.io/Perla-s/) - A simple static food ordering system ([repo](https://github.com/paren-thesis/Perla-s))
 - ⚙️ [GitNova](https://github.com/paren-thesis/GitNova) - A tool that simplifies Git commands through an interactive menu system
-- 🤖 [nerdsRanch](https://paren-thesis.github.io/Nersh) - A simple search space for nerds
+- 🤖 [Nersh](https://paren-thesis.github.io/Nersh) - A simple search space for nerds ([repo](https://github.com/paren-thesis/Nersh))
 - ✨ [MovieWeb](https://paren-thesis.github.io/ViewVault) - A movie streaming site hosted on GitHub Pages
 
 ## 💼 Skills
