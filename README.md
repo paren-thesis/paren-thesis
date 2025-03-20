@@ -113,13 +113,6 @@ amazing together! 🚀
 
 ------
 
-<h2 align="center">🐍 Contribution Snake</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/paren-thesis/paren-thesis/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-------
-
 <div align="center">
   <a href="https://github.com/paren-thesis">p@ren</a>
 </div>
