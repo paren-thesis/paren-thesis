@@ -46,27 +46,27 @@ amazing together! 🚀
 <h3 align="left">⚡ Activity:</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paren-thesis&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_color=61dafb&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paren-thesis&show_icons=true&locale=en&layout=compact&theme=gruvbox&border_color=61dafb&hide_border=true" alt="Top Languages" />
 </div>
 
 ------
 
-<div align="center">
+<div align="left">
   <a href="http://www.github.com/paren-thesis">
-    <img src="https://github-readme-stats.vercel.app/api?username=paren-thesis&show_icons=true&count_private=true&title_color=0891b2&icon_color=0891b2&ring_color=0891b2&theme=tokyonight&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="p@ren's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=paren-thesis&show_icons=true&count_private=true&title_color=0891b2&icon_color=0891b2&ring_color=0891b2&theme=gruvbox&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="p@ren's GitHub stats" />
   </a>
 </div>
 
 ------
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=paren-thesis&theme=tokyonight&border_color=61dafb&hide_border=true" alt="GitHub Streak Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=paren-thesis&theme=gruvbox&border_color=61dafb&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ------
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=paren-thesis&limit=4&theme=tokyonight&border_color=61dafb&hide_border=true&combine_all_yearly_contributions=true" alt="GitHub Most Contributed Repo" />
+<div align="left">
+  <img src="https://github-contributor-stats.vercel.app/api?username=paren-thesis&limit=4&theme=gruvbox&border_color=61dafb&hide_border=true&combine_all_yearly_contributions=true" alt="GitHub Most Contributed Repo" />
 </div>
 
 ------
@@ -104,12 +104,12 @@ amazing together! 🚀
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=paren-thesis&theme=tokyonight&no-frame=true&no-bg=false&margin-w=9" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=paren-thesis&theme=gruvbox&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 <h2 align="center">✍️ Random Dev Quote</h2>
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" />
 </div>
 
 ------
