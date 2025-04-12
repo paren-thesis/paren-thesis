@@ -1,7 +1,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello!+I'm+Prosper+Ntim+(p@ren);Full-Stack+Developer;Android+Developer;UI/UX+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello!+I'm+Prosper+Ntim+(p@ren);Full-Stack+Developer;Android+App+Developer;UI/UX+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ## 👋🏽 About Me
