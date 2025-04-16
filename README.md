@@ -6,27 +6,18 @@
 
 ## 👋🏽 About Me
 ``` java
-With a passion for technology, I aim to develop software solutions that bridge the gap 
-between the digital world and real-life experiences. I specialize in both frontend and 
-backend development, allowing me to work on a wide range of projects - from Android 
-app development to web platforms and writing shell scripts. My focus is on writing 
-clean, efficient code while constantly learning and evolving. Let's create something 
-amazing together! 🚀
+I like coding a lot. Like a lot
 ```
 
 ## 🚀 Projects
-- ⌨️ [TypeIt](https://paren-thesis.github.io/TypeIt/) - A web-based typing game to improve your typing skills ([repo](https://github.com/paren-thesis/TypeIt))
-- 🍔 [Perla's](https://paren-thesis.github.io/Perla-s/) - A simple static food ordering system ([repo](https://github.com/paren-thesis/Perla-s))
-- ⚙️ [GitNova](https://github.com/paren-thesis/GitNova) - A tool that simplifies Git commands through an interactive menu system
-- 🤖 [Nersh](https://paren-thesis.github.io/Nersh) - A simple search space for nerds ([repo](https://github.com/paren-thesis/Nersh))
-- ✨ [MovieWeb](https://paren-thesis.github.io/ViewVault) - A movie streaming site hosted on GitHub Pages
+- ⌨️ [TypeIt](https://paren-thesis.github.io/TypeIt/) - Do you like typing? ([repo](https://github.com/paren-thesis/TypeIt))
+- 🍔 [Perla's](https://paren-thesis.github.io/Perla-s/) - This just make me hungry ([repo](https://github.com/paren-thesis/Perla-s))
+- ⚙️ [GitNova](https://github.com/paren-thesis/GitNova) - This is for the Geets (more like geeks + git)
+- 🤖 [Nersh](https://paren-thesis.github.io/Nersh) - It is like an online dictionary for Nerds ([repo](https://github.com/paren-thesis/Nersh))
+- ✨ [MovieWeb](https://paren-thesis.github.io/ViewVault) - There are no movies to watch here
 
 ## 💼 Skills
-- 💬 **Development**: Android app development, web development (HTML, CSS, JavaScript, React), backend development with Java, SQL, and JavaScript
-- 🛠️ **Tools**: Git, GitHub for version control and collaboration
-- 🧑‍💻 I'm always up for a fun conversation, especially when it's tech-related!
-- ⚡ **Fun fact**: I might look like a hobbit, but I bring full-stack magic to every project.
-
+- 💬 **Yeah I code**
 <h3 align="left">🔗 Connect with me:</h3>
 
 <p align="left">
@@ -71,7 +62,7 @@ amazing together! 🚀
 
 ------
 
-<h3 align="left">🧰 Languages and Tools:</h3>
+<h3 align="left">🧰 Languages I Speak To The Computer:</h3>
 
 <table align="center">
     <tr>
@@ -102,7 +93,7 @@ amazing together! 🚀
 
 ------
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">🏆 My Cups I guess</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=paren-thesis&theme=gruvbox&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
