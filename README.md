@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello!+I'm+Prosper+Ntim+(p@ren);Full-Stack+Developer;Android+App+Developer;UI/UX+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
-## [My Portfolio](https://paren-thesis.github.io/prosper-portfolio/)
+## [📄My Portfolio](https://paren-thesis.github.io/prosper-portfolio/)
 
 ## 👋🏽 About Me
 ``` java
