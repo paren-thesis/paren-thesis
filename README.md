@@ -39,27 +39,27 @@ I like coding a lot. Like a lot
 <h3 align="left">⚡ Activity:</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paren-thesis&show_icons=true&locale=en&layout=compact&theme=gruvbox&border_color=61dafb&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paren-thesis&show_icons=true&locale=en&layout=pie&theme=gruvbox&border_color=61dafb" alt="Top Languages" />
 </div>
 
 ------
 
 <div align="left">
   <a href="http://www.github.com/paren-thesis">
-    <img src="https://github-readme-stats.vercel.app/api?username=paren-thesis&show_icons=true&count_private=true&title_color=0891b2&icon_color=0891b2&ring_color=0891b2&theme=gruvbox&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="p@ren's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=paren-thesis&show_icons=true&count_private=true&border_color=61dafb&title_color=0891b2&icon_color=0891b2&ring_color=0891b2&theme=gruvbox&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="p@ren's GitHub stats" />
   </a>
 </div>
 
 ------
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=paren-thesis&theme=gruvbox&border_color=61dafb&hide_border=true" alt="GitHub Streak Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=paren-thesis&theme=gruvbox&border_color=61dafb" alt="GitHub Streak Stats" />
 </div>
 
 ------
 
 <div align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=paren-thesis&limit=4&theme=gruvbox&border_color=61dafb&hide_border=true&combine_all_yearly_contributions=true" alt="GitHub Most Contributed Repo" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=paren-thesis&limit=6&theme=gruvbox&border_color=61dafb&combine_all_yearly_contributions=true" alt="GitHub Most Contributed Repo" />
 </div>
 
 ------
@@ -92,6 +92,15 @@ I like coding a lot. Like a lot
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,linux" alt="Operating System"/></td>
     </tr>
 </table>
+
+<h2 align="center">⌨️ Some Repos</h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paren-thesis&theme=gruvbox&border_color=61dafb&repo=GitNova)](https://github.com/paren-thesiis/GitNova)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paren-thesis&repo=Nersh&theme=gruvbox&border_color=61dafb)](https://github.com/paren-thesis/Nersh)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paren-thesis&repo=TypeIt&theme=gruvbox&border_color=61dafb)](https://github.com/paren-thesis/TypeIt)
+
 
 ------
 
