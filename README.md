@@ -95,7 +95,7 @@ I like coding a lot. Like a lot
 
 <h2 align="center">⌨️ Some Repos</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paren-thesis&theme=gruvbox&border_color=61dafb&repo=GitNova)](https://github.com/paren-thesiis/GitNova)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paren-thesis&theme=gruvbox&border_color=61dafb&repo=GitNova)](https://github.com/paren-thesis/GitNova)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paren-thesis&repo=Nersh&theme=gruvbox&border_color=61dafb)](https://github.com/paren-thesis/Nersh)
 
