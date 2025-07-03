@@ -69,11 +69,11 @@ I like coding a lot. Like a lot
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,python,javascript,nodejs" alt="Backend Tools"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=spring,python,javascript,nodejs,php" alt="Backend Tools"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Tools"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,html,css,js,react,tailwind" alt="Frontend Tools"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Database:</td>
@@ -85,7 +85,7 @@ I like coding a lot. Like a lot
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">IDEs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,vim,androidstudio" alt="IDEs"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,vim,androidstudio,netbeans" alt="IDEs"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Operating System:</td>
