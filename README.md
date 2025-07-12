@@ -107,6 +107,7 @@ I like coding a lot. Like a lot🥲
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paren-thesis&repo=TypeIt&theme=gruvbox&border_color=61dafb)](https://github.com/paren-thesis/TypeIt)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paren-thesis&repo=FramesPractice&theme=gruvbox&border_color=61dafb)](https://github.com/paren-thesis/FramesPractice)
 ---
 
 <h2 align="center">🏆 My Cups I guess</h2>
