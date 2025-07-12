@@ -7,19 +7,22 @@
 ## [📄My Portfolio](https://paren-thesis.github.io/prosper-portfolio/)
 
 ## 👋🏽 About Me
-``` java
+
+```java
 I like coding a lot. Like a lot
 ```
 
 ## 🚀 Projects
-- ⌨️ [TypeIt](https://paren-thesis.github.io/TypeIt/) - Do you like typing? ([repo](https://github.com/paren-thesis/TypeIt))
-- 🍔 [Perla's](https://paren-thesis.github.io/Perla-s/) - This just make me hungry ([repo](https://github.com/paren-thesis/Perla-s))
-- ⚙️ [GitNova](https://github.com/paren-thesis/GitNova) - This is for the Geets (more like geeks + git)
-- 🤖 [Nersh](https://paren-thesis.github.io/Nersh) - It is like an online dictionary for Nerds ([repo](https://github.com/paren-thesis/Nersh))
-- ✨ [MovieWeb](https://paren-thesis.github.io/ViewVault) - There are no movies to watch here
+
+-   ⌨️ [TypeIt](https://paren-thesis.github.io/TypeIt/) - Do you like typing? ([repo](https://github.com/paren-thesis/TypeIt))
+-   🍔 [Perla's](https://paren-thesis.github.io/Perla-s/) - This just make me hungry ([repo](https://github.com/paren-thesis/Perla-s))
+-   ⚙️ [GitNova](https://github.com/paren-thesis/GitNova) - This is for the Geets (more like geeks + git)
+-   🤖 [Nersh](https://paren-thesis.github.io/Nersh) - It is like an online dictionary for Nerds ([repo](https://github.com/paren-thesis/Nersh))
+-   ✨ [MovieWeb](https://paren-thesis.github.io/ViewVault) - There are no movies to watch here
 
 ## 💼 Skills
-- 💬 **Yeah I code**
+
+-   💬 **Yeah I code**
 <h3 align="left">🔗 Connect with me:</h3>
 
 <p align="left">
@@ -34,7 +37,7 @@ I like coding a lot. Like a lot
   <a href="https://discord.gg/9mzhMrzD" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="prosper-ntim-discord" /></a>
 </p>
 
-------
+---
 
 <h3 align="left">⚡ Activity:</h3>
 
@@ -42,7 +45,7 @@ I like coding a lot. Like a lot
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paren-thesis&show_icons=true&locale=en&layout=donut-vertical&theme=gruvbox&border_color=61dafb" alt="Top Languages" />
 </div>
 
-------
+---
 
 <div align="left">
   <a href="http://www.github.com/paren-thesis">
@@ -50,19 +53,19 @@ I like coding a lot. Like a lot
   </a>
 </div>
 
-------
+---
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=paren-thesis&theme=gruvbox&border_color=61dafb" alt="GitHub Streak Stats" />
 </div>
 
-------
+---
 
 <div align="left">
   <img src="https://github-contributor-stats.vercel.app/api?username=paren-thesis&limit=6&theme=gruvbox&border_color=61dafb&combine_all_yearly_contributions=true" alt="GitHub Most Contributed Repo" />
 </div>
 
-------
+---
 
 <h3 align="left">🧰 Languages I Speak To The Computer:</h3>
 
@@ -83,10 +86,13 @@ I like coding a lot. Like a lot
         <td style="font-weight: bold; padding-right: 10px;">Version Control:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Version Control Tools"/></td>
     </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px;">IDEs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,vim,androidstudio,netbeans" alt="IDEs"/></td>
-    </tr>
+<tr>
+    <td style="font-weight: bold; padding-right: 10px;">IDEs:</td>
+    <td>
+        <img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,vim,androidstudio" alt="IDEs"/>
+        <img height="40" src="https://skills.syvixor.com/api/icons?i=netbeans" alt="NetBeans"/>
+    </td>
+</tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Operating System:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,linux" alt="Operating System"/></td>
@@ -101,8 +107,7 @@ I like coding a lot. Like a lot
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paren-thesis&repo=TypeIt&theme=gruvbox&border_color=61dafb)](https://github.com/paren-thesis/TypeIt)
 
-
-------
+---
 
 <h2 align="center">🏆 My Cups I guess</h2>
 <div align="center">
@@ -114,7 +119,7 @@ I like coding a lot. Like a lot
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" />
 </div>
 
-------
+---
 
 <div align="center">
   <a href="https://github.com/paren-thesis">p@ren</a>
