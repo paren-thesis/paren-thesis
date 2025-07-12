@@ -1,7 +1,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello!+I'm+Prosper+Ntim+(p@ren);Full-Stack+Developer;Android+App+Developer;UI/UX+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello!+I'm+Prosper+Ntim+(p@ren);Full-Stack+Developer;I+Develope+Android+Apps;UI/UX+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ## [📄My Portfolio](https://paren-thesis.github.io/prosper-portfolio/)
@@ -9,7 +9,7 @@
 ## 👋🏽 About Me
 
 ```java
-I like coding a lot. Like a lot
+I like coding a lot. Like a lot🥲
 ```
 
 ## 🚀 Projects
@@ -90,7 +90,7 @@ I like coding a lot. Like a lot
     <td style="font-weight: bold; padding-right: 10px;">IDEs:</td>
     <td>
         <img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm,vim,androidstudio" alt="IDEs"/>
-        <img height="40" src="https://skills.syvixor.com/api/icons?i=netbeans" alt="NetBeans"/>
+        <img height="40" src="https://skills.syvixor.com/api/icons?i=netbeans,intellij" alt="NetBeans"/>
     </td>
 </tr>
     <tr>
