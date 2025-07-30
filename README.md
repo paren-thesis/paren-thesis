@@ -42,7 +42,7 @@ I like coding a lot. Like a lot🥲
 <h3 align="left">⚡ Activity:</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paren-thesis&show_icons=true&locale=en&layout=donut-vertical&theme=gruvbox&border_color=61dafb" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paren-thesis&show_icons=true&locale=en&theme=gruvbox&border_color=61dafb" alt="Top Languages" />
 </div>
 
 ---
