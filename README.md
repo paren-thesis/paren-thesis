@@ -122,6 +122,13 @@ I like coding a lot. Like a lot🥲
 
 ---
 
+<h2 align="center">🐍</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/paren-thesis/paren-thesis/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 <div align="center">
   <a href="https://github.com/paren-thesis">p@ren</a>
 </div>
