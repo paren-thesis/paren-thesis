@@ -42,7 +42,7 @@ I like coding a lot. Like a lot🥲
 <h3 align="left">⚡ Activity:</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paren-thesis&show_icons=true&locale=en&theme=gruvbox&border_color=61dafb" alt="Top Languages" />
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paren-thesis&show_icons=true&locale=en&theme=gruvbox&border_color=61dafb&layout=compact" alt="Top Languages" />
 </div>
 
 ---
@@ -107,8 +107,7 @@ I like coding a lot. Like a lot🥲
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paren-thesis&repo=TypeIt&theme=gruvbox&border_color=61dafb)](https://github.com/paren-thesis/TypeIt)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paren-thesis&repo=FramesPractice&theme=gruvbox&border_color=61dafb)](https://github.com/paren-thesis/FramesPractice)
----
+## [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paren-thesis&repo=FramesPractice&theme=gruvbox&border_color=61dafb)](https://github.com/paren-thesis/FramesPractice)
 
 <h2 align="center">🏆 My Cups I guess</h2>
 <div align="center">
