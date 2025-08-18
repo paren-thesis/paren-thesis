@@ -1,8 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello!+I'm+Prosper+Ntim+(p@ren);Full-Stack+Developer;I+Develope+Android+Apps;UI/UX+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello!+I'm+Prosper+Ntim+(p@ren);Full-Stack+Developer;I+Develope+Android+Apps;UI/UX+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
 ## [📄My Portfolio](https://paren-thesis.github.io/prosper-portfolio/)
 
@@ -23,53 +21,41 @@ I like coding a lot. Like a lot🥲
 ## 💼 Skills
 
 -   💬 **Yeah I code**
-<h3 align="left">🔗 Connect with me:</h3>
+<h3>🔗 Connect with me:</h3>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=paren-thesis&label=Profile%20views&color=0e75b6&style=flat" alt="paren-thesis" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=paren-thesis&label=Profile%20views&color=0e75b6&style=flat" alt="paren-thesis" />
 
-<p align="left">
-  <a href="mailto:ntimprosper308@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="prosper-ntim-gmail" /></a>
-  <a href="https://www.linkedin.com/in/prosper-ntim-9bb6ba2bb/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="prosper-ntim-linkedin" /></a>
-  <a href="https://www.fiverr.com/prosper_ntim?public_mode=true" target="blank"><img align="center" src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="prosper-ntim-fiverr" /></a>
-  <a href="https://t.me/paren7" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="prosper-ntim-telegram" /></a>
-  <a href="https://discord.gg/9mzhMrzD" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="prosper-ntim-discord" /></a>
-</p>
+<a href="mailto:ntimprosper308@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="prosper-ntim-gmail" /></a>
+<a href="https://www.linkedin.com/in/prosper-ntim-9bb6ba2bb/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="prosper-ntim-linkedin" /></a>
+<a href="https://www.fiverr.com/prosper_ntim?public_mode=true" target="blank"><img align="center" src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="prosper-ntim-fiverr" /></a>
+<a href="https://t.me/paren7" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="prosper-ntim-telegram" /></a>
+<a href="https://discord.gg/9mzhMrzD" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="prosper-ntim-discord" /></a>
 
 ---
 
-<h3 align="left">⚡ Activity:</h3>
+<h3>⚡ Activity:</h3>
 
-<div align="center">
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paren-thesis&show_icons=true&locale=en&theme=gruvbox&border_color=61dafb&layout=compact" alt="Top Languages" />
-</div>
+<img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paren-thesis&show_icons=true&locale=en&theme=gruvbox&border_color=61dafb&layout=compact" alt="Top Languages" />
 
 ---
 
-<div align="left">
-  <a href="http://www.github.com/paren-thesis">
-    <img src="https://github-readme-stats.vercel.app/api?username=paren-thesis&show_icons=true&count_private=true&border_color=61dafb&title_color=0891b2&icon_color=0891b2&ring_color=0891b2&theme=gruvbox&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="p@ren's GitHub stats" />
-  </a>
-</div>
+<a href="http://www.github.com/paren-thesis">
+  <img src="https://github-readme-stats.vercel.app/api?username=paren-thesis&show_icons=true&count_private=true&border_color=61dafb&title_color=0891b2&icon_color=0891b2&ring_color=0891b2&theme=gruvbox&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="p@ren's GitHub stats" />
+</a>
 
 ---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=paren-thesis&theme=gruvbox&border_color=61dafb" alt="GitHub Streak Stats" />
-</div>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=paren-thesis&theme=gruvbox&border_color=61dafb" alt="GitHub Streak Stats" />
 
 ---
 
-<div align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=paren-thesis&limit=6&theme=gruvbox&border_color=61dafb&combine_all_yearly_contributions=true" alt="GitHub Most Contributed Repo" />
-</div>
+<img src="https://github-contributor-stats.vercel.app/api?username=paren-thesis&limit=6&theme=gruvbox&border_color=61dafb&combine_all_yearly_contributions=true" alt="GitHub Most Contributed Repo" />
 
 ---
 
-<h3 align="left">🧰 Languages I Speak To The Computer:</h3>
+<h3>🧰 Languages I Speak To The Computer:</h3>
 
-<table align="center">
+<table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Backend:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=spring,python,javascript,nodejs,php" alt="Backend Tools"/></td>
@@ -99,7 +85,7 @@ I like coding a lot. Like a lot🥲
     </tr>
 </table>
 
-<h2 align="center">⌨️ Some Repos</h2>
+<h2>⌨️ Some Repos</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paren-thesis&theme=gruvbox&border_color=61dafb&repo=OnNo-git)](https://github.com/paren-thesis/OnNo-git)
 
@@ -111,24 +97,16 @@ I like coding a lot. Like a lot🥲
 
 ## [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paren-thesis&repo=FramesPractice&theme=gruvbox&border_color=61dafb)](https://github.com/paren-thesis/FramesPractice)
 
-<h2 align="center">🏆 My Cups I guess</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=paren-thesis&theme=gruvbox&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</div>
+<h2>🏆 My Cups I guess</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=paren-thesis&theme=gruvbox&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 
-<h2 align="center">✍️ Random Dev Quote</h2>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" />
-</div>
+<h2>✍️ Random Dev Quote</h2>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" />
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/paren-thesis/paren-thesis/output/snake.svg" alt="Snake animation" />
-</div>
+<img src="https://raw.githubusercontent.com/paren-thesis/paren-thesis/output/snake.svg" alt="Snake animation" />
 
 ---
 
-<div align="center">
-  <a href="https://github.com/paren-thesis">p@ren</a>
-</div>
+<a href="https://github.com/paren-thesis">p@ren</a>
