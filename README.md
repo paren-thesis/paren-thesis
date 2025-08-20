@@ -7,7 +7,7 @@
 ## 👋🏽 About Me
 
 ```java
-I like coding a lot. Like a lot🥲
+Addicted to codes 🤤
 ```
 
 ## 🚀 Projects
