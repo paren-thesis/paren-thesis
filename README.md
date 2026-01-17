@@ -33,7 +33,7 @@ Addicted to codes 🤤
 
 ---
 
-<h3>⚡ Activity:</h3>
+<!-- <h3>⚡ Activity:</h3>
 
 <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paren-thesis&show_icons=true&locale=en&theme=gruvbox&border_color=61dafb&layout=compact" alt="Top Languages" />
 
@@ -51,7 +51,7 @@ Addicted to codes 🤤
 
 <img src="https://github-contributor-stats.vercel.app/api?username=paren-thesis&limit=6&theme=gruvbox&border_color=61dafb&combine_all_yearly_contributions=true" alt="GitHub Most Contributed Repo" />
 
----
+--- -->
 
 <h3>🧰 Languages I Speak To The Computer:</h3>
 
@@ -84,7 +84,7 @@ Addicted to codes 🤤
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,linux" alt="Operating System"/></td>
     </tr>
 </table>
-
+<!-- 
 <h2>⌨️ Some Repos</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paren-thesis&theme=gruvbox&border_color=61dafb&repo=OnNo-git)](https://github.com/paren-thesis/OnNo-git)
@@ -99,7 +99,7 @@ Addicted to codes 🤤
 
 <h2>🏆 My Cups I guess</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=paren-thesis&theme=gruvbox&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-
+ -->
 <h2>✍️ Random Dev Quote</h2>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" />
 
