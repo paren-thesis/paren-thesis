@@ -13,7 +13,7 @@ Addicted to codes 🤤
 ## 🚀 Projects
 
 -   ⌨️ [TypeIt](https://paren-thesis.github.io/TypeIt/) - Do you like typing? ([repo](https://github.com/paren-thesis/TypeIt))
--   🍔 [Perla's](https://paren-thesis.github.io/Perla-s/) - This just make me hungry ([repo](https://github.com/paren-thesis/Perla-s))
+-   🍔 [Perla's](https://perla-s.vercel.app/) - This just make me hungry ([repo](https://github.com/paren-thesis/Perla-s))
 -   ⚙️ [GitNova](https://github.com/paren-thesis/GitNova) - This is for the Geets (more like geeks + git)
 -   🤖 [Nersh](https://paren-thesis.github.io/Nersh) - It is like an online dictionary for Nerds ([repo](https://github.com/paren-thesis/Nersh))
 -   ✨ [MovieWeb](https://paren-thesis.github.io/ViewVault) - There are no movies to watch here
@@ -33,17 +33,17 @@ Addicted to codes 🤤
 
 ---
 
-<!-- <h3>⚡ Activity:</h3>
+<h3>⚡ Activity:</h3>
 
-<img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paren-thesis&show_icons=true&locale=en&theme=gruvbox&border_color=61dafb&layout=compact" alt="Top Languages" />
+<!-- <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paren-thesis&show_icons=true&locale=en&theme=gruvbox&border_color=61dafb&layout=compact" alt="Top Languages" /> -->
 
----
+<!-- --- -->
 
-<a href="http://www.github.com/paren-thesis">
+<!-- <a href="http://www.github.com/paren-thesis">
   <img src="https://github-readme-stats.vercel.app/api?username=paren-thesis&show_icons=true&count_private=true&border_color=61dafb&title_color=0891b2&icon_color=0891b2&ring_color=0891b2&theme=gruvbox&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="p@ren's GitHub stats" />
-</a>
+</a> -->
 
----
+<!-- --- -->
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=paren-thesis&theme=gruvbox&border_color=61dafb" alt="GitHub Streak Stats" />
 
@@ -51,7 +51,7 @@ Addicted to codes 🤤
 
 <img src="https://github-contributor-stats.vercel.app/api?username=paren-thesis&limit=6&theme=gruvbox&border_color=61dafb&combine_all_yearly_contributions=true" alt="GitHub Most Contributed Repo" />
 
---- -->
+---
 
 <h3>🧰 Languages I Speak To The Computer:</h3>
 
