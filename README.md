@@ -81,7 +81,7 @@ Addicted to codes 🤤
 </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Operating System:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,linux" alt="Operating System"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,kali" alt="Operating System"/></td>
     </tr>
 </table>
 <!-- 
