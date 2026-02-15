@@ -86,7 +86,7 @@ Addicted to codes 🤤
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Other Tools:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=npm" alt="Other Tools"/>
-        <img height="40" src="https://www.readmecodegen.com/api/social-icon?name=composer&size=96&animation=glow"/>
+        <img height="40" src="https://www.readmecodegen.com/api/social-icon?name=composer&size=96"/>
         </td>
     </tr>
 </table>
