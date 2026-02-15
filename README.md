@@ -83,6 +83,12 @@ Addicted to codes 🤤
         <td style="font-weight: bold; padding-right: 10px;">Operating System:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,kali" alt="Operating System"/></td>
     </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=npm" alt="Other Tools"/>
+        <img height="40" src="https://www.readmecodegen.com/api/social-icon?name=composer&size=96&animation=glow"/>
+        </td>
+    </tr>
 </table>
 <!-- 
 <h2>⌨️ Some Repos</h2>
