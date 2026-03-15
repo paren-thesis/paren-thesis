@@ -58,11 +58,11 @@ Addicted to codes 🤤
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=spring,python,javascript,nodejs,php" alt="Backend Tools"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=spring,python,nodejs,php" alt="Backend Tools"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,html,css,js,react,tailwind" alt="Frontend Tools"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,html,css,js,react,tailwind,nextjs" alt="Frontend Tools"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Database:</td>
@@ -85,7 +85,7 @@ Addicted to codes 🤤
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=npm" alt="Other Tools"/>
+        <td><img height="40" src="https://skillicons.dev/icons?i=npm,vercel" alt="Other Tools"/>
         <img height="40" src="https://www.readmecodegen.com/api/social-icon?name=composer&size=96"/>
         </td>
     </tr>
