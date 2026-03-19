@@ -35,34 +35,34 @@ Addicted to codes 🤤
 
 <h3>⚡ Activity:</h3>
 
-<!-- <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paren-thesis&show_icons=true&locale=en&theme=gruvbox&border_color=61dafb&layout=compact" alt="Top Languages" /> -->
+<img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paren-thesis&show_icons=true&locale=en&theme=gruvbox&border_color=61dafb&layout=compact" alt="Top Languages" /> 
 
-<!-- --- -->
+<!-- ---
 
 <!-- <a href="http://www.github.com/paren-thesis">
   <img src="https://github-readme-stats.vercel.app/api?username=paren-thesis&show_icons=true&count_private=true&border_color=61dafb&title_color=0891b2&icon_color=0891b2&ring_color=0891b2&theme=gruvbox&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="p@ren's GitHub stats" />
 </a> -->
 
 <!-- --- -->
-
+---
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=paren-thesis&theme=gruvbox&border_color=61dafb" alt="GitHub Streak Stats" />
 
 ---
 
-<img src="https://github-contributor-stats.vercel.app/api?username=paren-thesis&limit=6&theme=gruvbox&border_color=61dafb&combine_all_yearly_contributions=true" alt="GitHub Most Contributed Repo" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paren-thesis&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 
 ---
 
-<h3>🧰 Languages I Speak To The Computer:</h3>
+<h3>🧰 Languages And Tools I Am Familiar With</h3>
 
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=spring,python,nodejs,php" alt="Backend Tools"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,nodejs,php" alt="Backend Tools"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,html,css,js,react,tailwind,nextjs" alt="Frontend Tools"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,html,css,js,react,typescript,tailwind,nextjs" alt="Frontend Tools"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Database:</td>
