@@ -1,6 +1,10 @@
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" />
+
+----
+
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello!+I'm+Prosper+Ntim+(p@ren);Full-Stack+Developer;I+Develope+Android+Apps;UI/UX+Enthusiast;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello!+I+am+a+Developer💻;" alt="Typing SVG" />
 
 ## [📄My Portfolio](https://paren-thesis.github.io/prosper-portfolio/)
 
@@ -106,8 +110,7 @@ Addicted to codes 🤤
 <h2>🏆 My Cups I guess</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=paren-thesis&theme=gruvbox&no-frame=true&no-bg=true" alt="GitHub Trophies" />
  -->
-<h2>✍️ Random Dev Quote</h2>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" />
+
 
 ---
 
