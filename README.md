@@ -6,40 +6,40 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=28&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello!+I+am+a+Developer💻;" alt="Typing SVG" />
 
-## [📄My Portfolio](https://paren-thesis.github.io/prosper-portfolio/)
+<!-- ## [📄My Portfolio](https://paren-thesis.github.io/prosper-portfolio/) -->
 
-## 👋🏽 About Me
+<!-- ## 👋🏽 About Me -->
 
 ```java
 Addicted to codes 🤤
 ```
 
-## 🚀 Projects
+<!-- ## 🚀 Projects
 
 -   ⌨️ [TypeIt](https://paren-thesis.github.io/TypeIt/) - Do you like typing? ([repo](https://github.com/paren-thesis/TypeIt))
 -   🍔 [Perla's](https://perla-s.vercel.app/) - This just make me hungry ([repo](https://github.com/paren-thesis/Perla-s))
 -   ⚙️ [GitNova](https://github.com/paren-thesis/GitNova) - This is for the Geets (more like geeks + git)
 -   🤖 [Nersh](https://paren-thesis.github.io/Nersh) - It is like an online dictionary for Nerds ([repo](https://github.com/paren-thesis/Nersh))
--   ✨ [MovieWeb](https://paren-thesis.github.io/ViewVault) - There are no movies to watch here
+-   ✨ [MovieWeb](https://paren-thesis.github.io/ViewVault) - There are no movies to watch here -->
 
-## 💼 Skills
+<!-- ## 💼 Skills
 
 -   💬 **Yeah I code**
 <h3>🔗 Connect with me:</h3>
 
 <img src="https://komarev.com/ghpvc/?username=paren-thesis&label=Profile%20views&color=0e75b6&style=flat" alt="paren-thesis" />
 
-<a href="mailto:ntimprosper308@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="prosper-ntim-gmail" /></a>
-<a href="https://www.linkedin.com/in/prosper-ntim-9bb6ba2bb/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="prosper-ntim-linkedin" /></a>
+<a href="mailto:ntimprosper308@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="prosper-ntim-gmail" /></a> -->
+<!-- <a href="https://www.linkedin.com/in/prosper-ntim-9bb6ba2bb/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="prosper-ntim-linkedin" /></a>
 <a href="https://www.fiverr.com/prosper_ntim?public_mode=true" target="blank"><img align="center" src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="prosper-ntim-fiverr" /></a>
 <a href="https://t.me/paren7" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="prosper-ntim-telegram" /></a>
-<a href="https://discord.gg/9mzhMrzD" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="prosper-ntim-discord" /></a>
+<a href="https://discord.gg/9mzhMrzD" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="prosper-ntim-discord" /></a> -->
 
----
+<!-- --- -->
 
-<h3>⚡ Activity:</h3>
+<!-- <h3>⚡ Activity:</h3>
 
-<img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paren-thesis&show_icons=true&locale=en&theme=gruvbox&border_color=61dafb&layout=compact" alt="Top Languages" /> 
+<img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paren-thesis&show_icons=true&locale=en&theme=gruvbox&border_color=61dafb&layout=compact" alt="Top Languages" />  -->
 
 <!-- ---
 
@@ -51,11 +51,11 @@ Addicted to codes 🤤
 ---
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=paren-thesis&theme=gruvbox&border_color=61dafb" alt="GitHub Streak Stats" />
 
----
+<!-- ---
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paren-thesis&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 
----
+--- -->
 
 <h3>🧰 Languages And Tools I Am Familiar With</h3>
 
@@ -118,4 +118,4 @@ Addicted to codes 🤤
 
 ---
 
-<a href="https://github.com/paren-thesis">p@ren</a>
+<!-- <a href="https://github.com/paren-thesis">p@ren</a> -->
