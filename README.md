@@ -49,13 +49,16 @@ Addicted to codes 🤤
 
 <!-- --- -->
 ---
+<div align="left">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=paren-thesis&theme=gruvbox&border_color=61dafb" alt="GitHub Streak Stats" />
+</div>
+<div align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=paren-thesis&show_icons=true&theme=gruvbox&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=bc8cff&text_color=6e7681" alt="GitHub Stats" />
+</div>
 
-<!-- ---
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paren-thesis&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-
---- -->
+<div align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paren-thesis&layout=compact&theme=gruvbox&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=6e7681" alt="Top Languages" />
+</div>
 
 <h3>🧰 Languages And Tools I Am Familiar With</h3>
 
