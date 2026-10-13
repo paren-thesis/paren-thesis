@@ -92,7 +92,7 @@ Addicted to codes 🤤
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=npm,vercel" alt="Other Tools"/>
+        <td><img height="40" src="https://skillicons.dev/icons?i=npm,vercel,docker" alt="Other Tools"/>
         <img height="40" src="https://www.readmecodegen.com/api/social-icon?name=composer&size=96"/>
         </td>
     </tr>
